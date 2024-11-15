@@ -1,0 +1,6 @@
+It's an index of stock-prediction model:-
+
+Download Streamlit:-
+ install specifications
+Create an env on the streamlit:-
+ execute the first.py on server
